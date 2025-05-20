@@ -27,8 +27,9 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile Developer based in
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 
-**Mobile:**  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+**Mobile & State Management:**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)  
+![GetX](https://img.shields.io/badge/-GetX-7B1FA2?logo=flutter&logoColor=white&style=flat)
 
 **Design Tools:**  
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)  
