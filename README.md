@@ -1,12 +1,11 @@
 # 👋 Hi there, I'm Chhinchhai Rong
 
-Welcome to my GitHub profile! I'm a passionate Web and Mobile Developer based in Cambodia, currently pursuing a Bachelor's degree in Management Information Systems (MIS) at SETEC Institute. I love building clean, responsive, and user-friendly web and mobile applications using modern technologies.
+Welcome to my GitHub profile! I'm a passionate Web and Mobile Developer based in Cambodia, I love building clean, responsive, and user-friendly web and mobile applications using modern technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 MIS student at SETEC Institute (3rd Year)
 - 💻 Skilled in: HTML, CSS, JavaScript, React.js, PHP, MySQL, Flutter
 - 🎨 Experienced with: Adobe Photoshop, Illustrator, InDesign, Premiere Pro
 - 🧠 Always eager to learn new technologies and improve my skills
@@ -49,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile Developer based in
 
 ## 📫 Get in Touch
 
-- 📧 Email: chhinchhai.rong@example.com *(Replace with your real email)*
+- 📧 Email: chhinchhairong18@gmail.com
 - 💼 LinkedIn: [Your LinkedIn URL]
 - 🌐 Portfolio: [chhinchhairongportfolio.vercel.app](https://chhinchhairongportfolio.vercel.app/)
 
