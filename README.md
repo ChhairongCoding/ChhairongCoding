@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Chhinchhai Rong
+# 👋 Hi there, I'm Chhairong Chhin
 
 Welcome to my GitHub profile! I'm a passionate Web and Mobile Developer based in Cambodia, I love building clean, responsive, and user-friendly web and mobile applications using modern technologies.
 
