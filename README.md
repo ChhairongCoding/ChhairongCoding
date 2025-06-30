@@ -45,13 +45,14 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile Developer based in
 - 🚘 [Porsche History Page](https://porsche-history.vercel.app/)
 - 📚 E-learning Website (React + Tailwind CSS)
 - 📱 Task Manager App in Flutter
+- 📱 E-Commerce Admin App in Flutter
 
 ---
 
 ## 📫 Get in Touch
 
 - 📧 Email: chhinchhairong18@gmail.com
-- 💼 LinkedIn: [Your LinkedIn URL]
+- 📲 Telegram: 0972725271 (Chhin Chhairong)
 - 🌐 Portfolio: [chhinchhairongportfolio.vercel.app](https://chhinchhairongportfolio.vercel.app/)
 
 ---
