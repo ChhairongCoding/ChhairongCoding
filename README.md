@@ -29,8 +29,6 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile Developer based in
 **Backend:**  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 
 **Design Tools:**  
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)  
