@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile Developer based in
 ## 📫 Get in Touch
 
 - 📧 Email: chhinchhairong18@gmail.com
-- 📲 Telegram: 0972725271 (Chhin Chhairong)
+- 📲 Telegram: @RongUrBoy404 (ឈីន ឆៃរ៉ុង (SU44))
 - 🌐 Portfolio: [chhinchhairongportfolio.vercel.app](https://chhinchhairongportfolio.vercel.app/)
 
 ---
