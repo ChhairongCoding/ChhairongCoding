@@ -39,11 +39,12 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile Developer based in
 
 ## 📁 Portfolio Projects
 
+- 📱 SlowKits Store Mobile App
+- 📱 E-Commerce Admin Dashboard
+- 📱 Task Manager App 
 - 🔗 [Portfolio Website](https://chhinchhairongportfolio.vercel.app/)
 - 🚘 [Porsche History Page](https://porsche-history.vercel.app/)
-- 📚 E-learning Website (React + Tailwind CSS)
-- 📱 Task Manager App in Flutter
-- 📱 E-Commerce Admin App in Flutter
+
 
 ---
 
