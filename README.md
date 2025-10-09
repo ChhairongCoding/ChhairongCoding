@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile Developer based in
 **Mobile & State Management:**  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)  
 ![GetX](https://img.shields.io/badge/-GetX-7B1FA2?logo=flutter&logoColor=white&style=flat)
+![Supabase](https://img.shields.io/badge/-Supabase-2DCA73?logo=supabase&logoColor=white&style=flat)
+
 
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
