@@ -4,10 +4,8 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile Developer based in
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me & 🔧 Tech Stack
 **I’m a passionate Mobile Developer with expertise **
-
-## 🔧 Tech Stack
 
 | Mobile & Frameworks | Backend | Cloud & DB |
 |--------------------|---------|------------|
