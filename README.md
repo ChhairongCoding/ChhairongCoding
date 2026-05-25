@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile Developer based in
 | ![GetX](https://img.shields.io/badge/-GetX-7B1FA2?logo=flutter&logoColor=white&style=for-the-badge) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) |
 | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge) |
 | ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) |
-|  | ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge) |
+|
 ---
 
 ## 📁 Portfolio Projects
